@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Old Fashioned",
+    "ingredients": {
+      "baseAlcohol1": {
+        "type": "Whiskey",
+        "subtype": "Rye",
+        "amount": "2oz"
+      },
+      "baseAlcohol2": null,
+      "citrus": null,
+      "mixer": null,
+      "sweetner": {
+        "type": "Sugar Cube",
+        "amount": "1 Cube"
+      },
+      "garnish": "Orange Swath"
+    },
+    "glass": "Old Fashioned glass",
+    "hardware": [
+      "muddler",
+      "Bar Spoon",
+      "Bar Measure"
+    ]
+  },
+  {
+    "name": "Daiquiri",
+    "ingredients": {
+      "baseAlcohol1": {
+        "type": "Rum",
+        "subtype": "White",
+        "amount": "2oz"
+      },
+      "baseAlcohol2": null,
+      "citrus": {
+        "type": "Lime",
+        "amount": ".75oz"
+      },
+      "mixer": null,
+      "sweetner": {
+        "type": "Simple Syrup",
+        "amount": ".5oz"
+      },
+      "garnish": "Lime Twist"
+    },
+    "glass": "Coupe Glass",
+    "hardware": [
+      "Shaker",
+      "Bar Measure"
+    ]
+  },
+  {
+    "name": "Margarita",
+    "ingredients": {
+      "baseAlcohol1": {
+        "type": "Tequila",
+        "subtype": "Blanco",
+        "amount": "2oz"
+      },
+      "baseAlcohol2": null,
+      "citrus": {
+        "type": "Lime",
+        "amount": "1oz"
+      },
+      "sweetner": {
+        "type": "Triple Sec",
+        "amount": "1oz"
+      },
+      "garnish": "Salted Rim and Lime Wheel"
+    },
+    "glass": "Margarita glass",
+    "hardware": [
+      "Shaker",
+      "Bar Measure"
+    ]
+  }
+]

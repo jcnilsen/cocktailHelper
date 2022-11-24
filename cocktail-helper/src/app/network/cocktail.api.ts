@@ -7,6 +7,7 @@ import { CocktailDefinition as CocktailList } from "../models/Cocktails.model";
 @Injectable({ providedIn: 'root' })
 export class CocktialAPI {
   getCocktailList(): CocktailList[] {
+    // TODO: convert to async
     return require("../stubData/cocktailList.json");
   }
 }
